@@ -1,1 +1,1 @@
-Some followed-up notebooks and scripts added of the base model.
+Some followed-up notebooks and scripts of the base model.
